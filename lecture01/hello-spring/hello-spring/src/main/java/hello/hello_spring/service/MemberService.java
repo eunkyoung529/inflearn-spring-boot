@@ -17,10 +17,6 @@ public class MemberService {
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
     }
-
-    public static void main(String[] args) {
-        MemberService
-    }
     /**
      *
      회원가입
